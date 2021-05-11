@@ -1,0 +1,2 @@
+# KimJongMoon.sol
+KimJongMoon Contract
